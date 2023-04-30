@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @St-Jousef (JOSEPH)
-- 👀 I’m interested in learning and self improvement
+- 👀 I’m interested in learning and self development
 - 🌱 I’m currently learning full stack development using JS
-- 💞️ I’m looking to collaborate on projects
+- 💞️ I’m looking to collaborations, hands on projects
 - 📫 How to reach me [joseh_nkwocha@yahoo.com](https://wa.link/yqebum)
 
 <!---
