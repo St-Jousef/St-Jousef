@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @St-Jousef (JOSEPH)
+- 👋 Hi, I’m JOSEPH {@St-Jousef}
 - 🔭 I’m currently a fulltime student at GoMyCode.
-- 👀 I’m interested in learning and self development.
-- 🌱 I’m currently learning full stack development using JS.
-- 💞️ I’m looking forward to collaborations, hands on projects to be specific (Front-End) role for now...
+-  🌱 I’m currently learning web-development
+- 👀 I’m interested in acquiring more skills and growth
+- 💞️ I’m looking forward to collaborations...
 - 📫 How to reach me [joseph_nkwocha@yahoo.com]
 
 <!---
