@@ -1,4 +1,4 @@
-<h2 align="center">Hello👋!   I am Joseph Nkwocha from Lagos, Nigeria.</h2>
+<h2 align="center">Hello👋!   I am Joseph Nkwocha </h2>
 
 ###
 
